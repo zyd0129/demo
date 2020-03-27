@@ -1,5 +1,8 @@
 package com.zyd.demo.inherit;
 
+/**
+ * 构造器问题
+ */
 public class Main {
     public static void main(String[] args) {
         /*

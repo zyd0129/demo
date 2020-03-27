@@ -6,7 +6,23 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1cf488a-ee94-4b83-8277-3a788b3595f1" name="Default Changelist" comment="" />
+    <list default="true" id="c1cf488a-ee94-4b83-8277-3a788b3595f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/interfa/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/interfa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/interfa/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/interfa/Say.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/interfa/Study.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javalearning/target/classes/com/zyd/demo/inherit/Children.class" beforeDir="false" afterPath="$PROJECT_DIR$/javalearning/target/classes/com/zyd/demo/inherit/Children.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javalearning/target/classes/com/zyd/demo/inherit/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/javalearning/target/classes/com/zyd/demo/inherit/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javalearning/target/classes/com/zyd/demo/inherit/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/javalearning/target/classes/com/zyd/demo/inherit/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springioc/src/main/java/com/zyd/demo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/springioc/src/main/java/com/zyd/demo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springioc/src/main/java/com/zyd/demo/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springioc/src/main/java/com/zyd/demo/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springioc/target/classes/com/zyd/demo/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/springioc/target/classes/com/zyd/demo/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springioc/target/classes/com/zyd/demo/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/springioc/target/classes/com/zyd/demo/AppConfig.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +34,12 @@
       <list>
         <option value="AnnotationType" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -38,18 +58,26 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1ZYm9v2W22KD9aYEoVJZnt38Sqp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/interfa" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\demo\javalearning\src\main\java\com\zyd\demo\inherit\interfa" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -68,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zyd.demo.App" />
       <module name="springioc" />
@@ -88,6 +116,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zyd.demo.inherit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zyd.demo.inherit.interfa.Main" />
+      <module name="javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyd.demo.inherit.interfa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,8 +158,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -136,12 +178,26 @@
       <workItem from="1585024255572" duration="2103000" />
       <workItem from="1585097390966" duration="5869000" />
       <workItem from="1585182358491" duration="1186000" />
-      <workItem from="1585183850926" duration="14487000" />
+      <workItem from="1585183850926" duration="16447000" />
+      <workItem from="1585270729201" duration="11602000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -150,6 +206,22 @@
           <url>file://$PROJECT_DIR$/javalearning/src/main/java/com/zyd/demo/inherit/Parent.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>549</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>552</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;student&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.4.RELEASE/spring-beans-5.2.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>856</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

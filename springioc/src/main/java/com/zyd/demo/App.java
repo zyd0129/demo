@@ -17,7 +17,7 @@ public class App
 
          */
         ApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfig.class);
-        ApplicationContext ctx1 = new ClassPathXmlApplicationContext("");
+//        ApplicationContext ctx1 = new ClassPathXmlApplicationContext("");
         for(String i:ctx.getBeanDefinitionNames()){
             System.out.println(i);
         };
