@@ -3,6 +3,9 @@ package com.zyd.demo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+/**
+ * FOX Hen 构造器循环依赖 报错
+ */
 @Component
 public class Fox{
     private String name;
