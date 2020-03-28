@@ -18,10 +18,11 @@ public class App
          */
         ApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfig.class);
 //        ApplicationContext ctx1 = new ClassPathXmlApplicationContext("");
-        for(String i:ctx.getBeanDefinitionNames()){
-            System.out.println(i);
-        };
+//        for(String i:ctx.getBeanDefinitionNames()){
+//            System.out.println(i);
+//        };
         Student student = (Student) ctx.getBean("student");
-        System.out.println(student.toString());
+        Study study = (Study) ctx.getBean("study");
+        study.studyEnglish();
     }
 }
